@@ -6,6 +6,8 @@
 <br />
 <table>
 <tr>
+<td>固定前缀</td><td>四种变化</td><td>变化后缀</td><td>QQ号</td><td>固定前缀</td><td>四种变化</td><td>变化后缀</td>
+ </tr><tr>
 <td>*S1*oKvPoK6kow6</td><td>zNe</td><td>Esowclowoq</td><td>1738004309</td><td>14411521</td><td>08</td><td>96287239</td>
  </tr><tr>
 <td>*S1*oKvPoK6kow6</td><td>zNK</td><td>-qoiCz7eCA</td><td>3108817960</td><td>14411521</td><td>09</td><td>29360462</td>
